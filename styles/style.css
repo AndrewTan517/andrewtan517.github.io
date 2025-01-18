@@ -1,3 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
 html {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    border: 1px solid black;
+    padding: 0.5em;
+    margin: 0 1em;
+    text-align: center;
+}
+
+section {
+    border: 1px solid black;
 }
